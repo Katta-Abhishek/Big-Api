@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Big-Api.props" />
+</Project>
